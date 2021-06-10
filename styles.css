@@ -1,1 +1,35 @@
 /* add your CSS here */
+/* add your CSS here */
+body {
+    padding: 20px;
+    margin: auto;
+  }
+  
+  #container{
+    border : 2px solid grey;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    width: 350px;
+    margin: auto;
+    background-color: crimson;
+  }
+  
+  img {
+    width: 300px;
+    padding-bottom: 10px;
+  }
+  .animal-info {
+    font-style: italic ;
+    border : 2px solid grey;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: left;
+    background-color: cyan;
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  span { font-weight:bold; }
